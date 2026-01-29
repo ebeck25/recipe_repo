@@ -4,5 +4,5 @@
 * chop onions
 * squeeze limes
 * add salt
-* and mix thoroughly
+* throw everything together and mix
 * serve cold
