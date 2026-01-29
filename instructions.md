@@ -1,8 +1,8 @@
 # Instructions
 
 * chop avocados
-* chop onion
-* squeeze lime
+* chop onions
+* squeeze limes
 * add salt
 * and mix thoroughly
 * serve cold
